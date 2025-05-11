@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: ratelimiter
+
+server:
+  port: 8081
